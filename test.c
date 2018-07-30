@@ -8,6 +8,8 @@ void f1()
 void f2()
 {
     printf("f23456789");
+    printf("f23456789");
+    printf("f23456789");
 }
 
 int main()
