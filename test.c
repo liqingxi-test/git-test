@@ -2,7 +2,7 @@
 
 void f1()
 {
-    printf("f1");
+    printf("f123456789");
 }
 
 void f2()
