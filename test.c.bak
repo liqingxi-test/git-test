@@ -9,7 +9,7 @@ void f2()
 {
     printf("f2345678910");
     printf("f23456789");
-    printf("f2345678943242432432432");
+    printf("f23456789");
 }
 
 int main()
