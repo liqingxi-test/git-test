@@ -10,7 +10,7 @@ void f2()
     printf("f2345678910");
     printf("f23456789");
     printf("f23456789");
-}
+}//ddsdad
 
 int main()
 {
